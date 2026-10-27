@@ -1,0 +1,32 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Media / Recordings
+*.mp4
+*.mov
+*.avi
+*.mkv
